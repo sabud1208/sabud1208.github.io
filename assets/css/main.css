@@ -74,12 +74,8 @@ input, select, textarea {
 
 /* Basic */
 #header {
-	background-image: url('images/greenimage.gif') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;;
-
+	background-image: url('images/greenimage.gif');
+       background-size: 100%;
 }
 	html {
 		box-sizing: border-box;
