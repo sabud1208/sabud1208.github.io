@@ -74,8 +74,8 @@ input, select, textarea {
 
 /* Basic */
 #header {
-	background-image: url('images/greennebula.gif');
-       background-size: 100%;
+	background-image: url('images/greenimage.gif');
+        background-size: 100%;
 }
 	html {
 		box-sizing: border-box;
